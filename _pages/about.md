@@ -1,9 +1,6 @@
 ---
-layout: single
+layout: posts
 title: About
-classes: wide
-sidebar:
-  - text: "Twitter"
 ---
 <img src="profile.png?raw=true"/>
 
