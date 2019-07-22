@@ -16,3 +16,8 @@ classes: wide
 {% endfor %}
 
 {% include paginator.html %}
+
+<h3 class="archive__subtitle">{{ "Twitter Feed" }}</h3>
+<br>
+
+{% twitternocache https://twitter.com/_bnjenner_ maxwidth=700 %}

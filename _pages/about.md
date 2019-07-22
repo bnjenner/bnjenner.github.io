@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: archive
 title: About
 ---
 <img src="profile.png?raw=true"/>
