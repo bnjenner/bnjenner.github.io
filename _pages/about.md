@@ -22,5 +22,6 @@ Hello! My name is Bradley Jenner and I am studying Bioinformatics at the Univers
 
 [![UC Davis PLP](plp.png)](http://plantpathology.ucdavis.edu)
 <br>
-<a href:"https://neuroscience.ucdavis.edu"><img src="cns.jpg?raw=true"><a/>
+[![UC Davis CNS](cns.jpg)](https://neuroscience.ucdavis.edu)
+
 
