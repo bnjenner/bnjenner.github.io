@@ -6,6 +6,7 @@ classes: wide
 <img src="set.jpg?raw=true"/>
 
 # Posts
+---
 
  <ul>
   {% for post in site.posts %}
