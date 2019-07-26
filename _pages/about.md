@@ -17,7 +17,11 @@ Hello! My name is Bradley Jenner and I am studying Bioinformatics at the Univers
 - Using BLAST and NCBI Databases
 - Oral and Written Communication
 
+### Continued Education:
+ - UC Davis Bioinformatics Core: Prerequisite Workshop (March, 2018)
+ - UC Davis Bioinformatics Core: RNA-Seq Workshop (June, 2018)
 
+ 
 ### Affiliations:
 
 [![UC Davis PLP](plp.png)](http://plantpathology.ucdavis.edu)
