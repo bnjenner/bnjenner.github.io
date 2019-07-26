@@ -12,6 +12,7 @@ Hello! My name is Bradley Jenner and I am studying Bioinformatics at the Univers
 
 ### Skills:                     
 - Bioinformatic Analysis 
+- Programming (Python)
 - Molecular Biology Techniques
 - Using BLAST and NCBI Databases
 - Oral and Written Communication
