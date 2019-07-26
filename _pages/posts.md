@@ -2,6 +2,7 @@
 layout: single
 title: Posts
 author_profile: true 
+classes: wide
 ---
 
  <ul>
