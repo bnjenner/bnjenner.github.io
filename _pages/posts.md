@@ -4,7 +4,7 @@ title: Posts
 author_profile: true 
 classes: wide
 ---
-
+<img src="set.jpg?raw=true"/>
  <ul>
   {% for post in site.posts %}
     <li>
