@@ -4,7 +4,7 @@ title: Publications
 author_profile: true 
 classes: wide
 ---
-<img src="leaves.jpg?raw=true"/>
+<img src="leaves.JPG?raw=true"/>
 
 ## Plant Pathology:
 
