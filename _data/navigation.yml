@@ -5,5 +5,6 @@ main:
   - title: "Publications"
     url: /_pages/publications/
   - title: "CV"
-    url:  /_pages/CV.pdf 
-  
+    url:  /_pages/CV.pdf
+  - title: "Posts"
+    url:  /_pages/posts/
