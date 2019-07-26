@@ -24,6 +24,7 @@ Hello! My name is Bradley Jenner and I am studying Bioinformatics at the Univers
 <br>
 [Gordon Lab](http://thegordonlab.net)
 <br>
+<br>
 [![UC Davis CNS](cns.jpg)](https://neuroscience.ucdavis.edu)
 <br>
 [Nord Lab](https://nordlab.faculty.ucdavis.edu)
