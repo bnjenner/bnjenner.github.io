@@ -2,7 +2,7 @@
 layout: archive
 title: About
 ---
-<img src="profile.png?raw=true"/>
+<img src="about.jpg?raw=true"/>
 
 ### Bio:
 Hello! My name is Bradley Jenner and I am studying Bioinformatics at the University of California, Davis. I am working as an Undergraduate Research Assistant at the Gordon Lab in the UC Davis Department of Plant Pathology and the Nord Lab at the UC Davis Center for Neuroscience. 
