@@ -2,6 +2,7 @@
 layout: archive
 title: About
 ---
+---
 <img src="about.jpg?raw=true"/>
 
 ### Bio:
