@@ -117,6 +117,8 @@
               <a href="/_pages/publications/" >Publications</a>
             </li><li class="masthead__menu-item">
               <a href="/_pages/CV.pdf" >CV</a>
+            </li><li class="masthead__menu-item">
+              <a href="/_pages/posts/" >Posts</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -275,17 +277,37 @@
 
       <section class="page__content" itemprop="text">
         
-        <img src="assets/images/background.jpg" />
+        <style>
+div.ex1 {
+  width: 400px;
+  height: 400px;
+  overflow-y: scroll;
+}
+div.column {
+  float: left;
+  width: 50%;
+  height: 400px;
+}
+div.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
 
-<br>
-<h1 class="header">Home</h1>
+
+<img src="assets/images/background.jpg" />
 
 
 
 <h3 class="archive__subtitle">Recent Posts</h3>
 
 
-  
+  <style type="text/css">
+div.tab { margin-left: 40px; }
+</style>
+
+
 
 
 
@@ -298,16 +320,20 @@
 </a>
       
     </h2>
-    
-      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+    <font size="4">
+      <p class="archive__item-excerpt" itemprop="description">Investigating the generation of diversity in somatic compatibility by single nucleotide mutations in Fusarium oxysporum f. sp. fragariae. Given on April 27, ...</p>
+    </font>
+    <div>
+      
+        <p class="page__meta">Posted: July 22, 2019  |  <i class="far fa-clock" aria-hidden="true"></i> 
 
 
 
 
   less than 1 minute read
 </p>
-    
-    <p class="archive__item-excerpt" itemprop="description">Investigating the generation of diversity in somatic compatibility by single nucleotide mutations in Fusarium oxysporum f. sp. fragariae. Given on April 27, ...</p>
+      
+    </div>
   </article>
 </div>
 
@@ -315,16 +341,23 @@
 
 
 
-
-<h3 class="archive__subtitle">Twitter Feed</h3>
 <br>
 
+<h3 class="archive__subtitle">Social Media</h3>
+<br>
 
-<div>
-    <a class="twitter-timeline" data-tweet-limit="3" data-theme="dark" href="https://twitter.com/_bnjenner_?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3A_bnjenner_&ref_url=http%3A%2F%2Flocalhost%3A4000%2F">Tweets by _bnjenner</a>   
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="row">
+  <div class="column">
+    <div class="ex1"> 
+      <a class="twitter-timeline" data-tweet-limit="8" data-theme="dark" href="https://twitter.com/_bnjenner_?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3A_bnjenner_&ref_url=http%3A%2F%2Flocalhost%3A4000%2F" data-width="400" data-height="400">Tweets by _bnjenner</a>   
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+     </div>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+      <p>Some text..</p>
+  </div>
 </div>
-
 
         
       </section>
