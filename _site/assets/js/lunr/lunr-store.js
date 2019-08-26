@@ -4,8 +4,8 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/UC-Davis-Undergraduate-Research-Conference-2019/",
         "teaser":null},{
-        "title": "TEST",
-        "excerpt":"Investigating the generation of diversity in somatic compatibility by single nucleotide mutations in Fusarium oxysporum f. sp. fragariae. Given on April 27, 2019, at the UC Davis Undergraduate Research Conference.   View Presentation PDF  ","categories": [],
+        "title": "Nord Lab Repository Website",
+        "excerpt":"Taking a short break from Bioinformatics, I built a website for the Nord Neurogenomics Lab showcasing their publications and Github repositories! Be sure to check out the site as well as the amazing work that is done in this lab!   View Website Here  ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/test/",
+        "url": "http://localhost:4000/Nord-Lab-Website-Init/",
         "teaser":null}]
