@@ -22,8 +22,9 @@ permalink: twitter
   float: left;
   margin-bottom: -20px;
 }
-@media screen and (max-width:950px) {
+@media screen and (max-width:875px) {
   .left-col {
+    float: left;
     width: 100%;
     margin-bottom: 0px;
   }
@@ -41,7 +42,7 @@ permalink: twitter
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ "Recent Posts" }}</h3>
+<font size="6"><h3 class="archive__subtitle">{{ "Recent Posts" }}</h3></font>
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
@@ -50,7 +51,7 @@ permalink: twitter
 {% include paginator.html %}
 <br>
 
-<h3 class="archive__subtitle">{{ "Recent Activity" }}</h3>
+<font size="6"><h3 style="margin-top: 0px;" class="archive__subtitle">{{ "Recent Activity" }}</h3></font>
 <br>
 
 <div class="container">
@@ -64,8 +65,8 @@ permalink: twitter
   <aside class="right-col">
     <div style="width: 300px; height: 500px; display: inline-block; margin-bottom: 45px;">
       <a style="display: block;">
-        <h1 style="text-align: left; width: 300px; height: 60px;"><a  href="https://github.com/bnjenner?tab=repositories">Repositories</a></h1>
-        <ul style="text-align: left;" class="column" style="float: left;" id="repositories"></ul>
+        <h1 style="text-align: center; width: 300px; height: 60px;"><a  href="https://github.com/bnjenner?tab=repositories">Repositories</a></h1>
+        <font size="5"><ul style="text-align: left;" id="repositories"></ul></font>
       </a>
     </div>
   </aside>
