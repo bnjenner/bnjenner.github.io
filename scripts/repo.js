@@ -15,7 +15,7 @@ function renderHTML(data) {
 
   for (i = 0; i < data.length; i++) {
     if (data[i].name != "Publications" && data[i].name != "bnjenner.github.io") { 
-      htmlString += "<p><a href=\"" + data[i].html_url + "\"  target=\"_blank\">" + data[i].name + "</a></p>";
+      htmlString += "<li><a href=\"" + data[i].html_url + "\"  target=\"_blank\">" + data[i].name + "</a></li>";
     }
   }
   pubContainer.insertAdjacentHTML('beforeend', htmlString);

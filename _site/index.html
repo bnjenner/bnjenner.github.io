@@ -278,25 +278,39 @@
       <section class="page__content" itemprop="text">
         
         <style>
-div.ex1 {
-  width: 400px;
-  height: 400px;
-  overflow-y: scroll;
+.container {
+  text-align: center;
+  margin: 0px auto;
 }
-div.column {
-  float: left;
+.left-col {
   width: 50%;
-  height: 400px;
+  float: left;
+  margin-bottom: -20px;
 }
-div.row:after {
-  content: "";
-  display: table;
-  clear: both;
+.right-col {
+  width: 50%;
+  float: left;
+  margin-bottom: -20px;
+}
+@media screen and (max-width:950px) {
+  .left-col {
+    width: 100%;
+    margin-bottom: 0px;
+  }
+  .right-col {
+    float: left;
+    margin-top: 45px;
+    width: 100%;
+  }
+.emb {
+  overflow-y: scroll;
 }
 </style>
 
 <img src="assets/images/background.jpg" />
 
+
+
 <h3 class="archive__subtitle">Recent Posts</h3>
 
 
@@ -313,23 +327,23 @@ div.tab { margin-left: 40px; }
     
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="/Post-Test/" rel="permalink">Test Post
+        <a href="/test/" rel="permalink">TEST
 </a>
       
     </h2>
     <font size="4">
-      <p class="archive__item-excerpt" itemprop="description">This post is for testing purposes. Please ignore this post. Do not look at it. Why are you continuing to read? Wait until my father hears about this POTTTER.
-</p>
+      <p class="archive__item-excerpt" itemprop="description">Investigating the generation of diversity in somatic compatibility by single nucleotide mutations in Fusarium oxysporum f. sp. fragariae. Given on April 27, ...</p>
     </font>
     <div>
       
-        <p class="page__meta">Posted: August 02, 2019  |  <i class="far fa-clock" aria-hidden="true"></i> 
+        <p class="page__meta">Posted: August 26, 2019 | <i class="far fa-clock" aria-hidden="false"></i> 
 
 
 
 
   less than 1 minute read
 </p>
+        <br>
       
     </div>
   </article>
@@ -358,13 +372,14 @@ div.tab { margin-left: 40px; }
     </font>
     <div>
       
-        <p class="page__meta">Posted: July 22, 2019  |  <i class="far fa-clock" aria-hidden="true"></i> 
+        <p class="page__meta">Posted: July 22, 2019 | <i class="far fa-clock" aria-hidden="false"></i> 
 
 
 
 
   less than 1 minute read
 </p>
+        <br>
       
     </div>
   </article>
@@ -376,101 +391,27 @@ div.tab { margin-left: 40px; }
 
 <br>
 
-
-<h3 class="archive__subtitle">Recent Posts</h3>
-
-
-  <style type="text/css">
-div.tab { margin-left: 40px; }
-</style>
-
-
-
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/Post-Test/" rel="permalink">Test Post
-</a>
-      
-    </h2>
-    <font size="4">
-      <p class="archive__item-excerpt" itemprop="description">This post is for testing purposes. Please ignore this post. Do not look at it. Why are you continuing to read? Wait until my father hears about this POTTTER.
-</p>
-    </font>
-    <div>
-      
-        <p class="page__meta">Posted: August 02, 2019  |  <i class="far fa-clock" aria-hidden="true"></i> 
-
-
-
-
-  less than 1 minute read
-</p>
-      
-    </div>
-  </article>
-</div>
-
-
-  <style type="text/css">
-div.tab { margin-left: 40px; }
-</style>
-
-
-
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/UC-Davis-Undergraduate-Research-Conference-2019/" rel="permalink">UC Davis Undergraduate Research Conference 2019
-</a>
-      
-    </h2>
-    <font size="4">
-      <p class="archive__item-excerpt" itemprop="description">Investigating the generation of diversity in somatic compatibility by single nucleotide mutations in Fusarium oxysporum f. sp. fragariae. Given on April 27, ...</p>
-    </font>
-    <div>
-      
-        <p class="page__meta">Posted: July 22, 2019  |  <i class="far fa-clock" aria-hidden="true"></i> 
-
-
-
-
-  less than 1 minute read
-</p>
-      
-    </div>
-  </article>
-</div>
-
-
-
-
-
+<h3 class="archive__subtitle">Recent Activity</h3>
 <br>
 
-<h3 class="archive__subtitle">Social Media</h3>
-<br>
-
-<div class="row"> 
-  <div class="column">  
-    <div class="ex1"> 
-      <a class="twitter-timeline" data-tweet-limit="8" data-theme="dark" href="https://twitter.com/_bnjenner_?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3A_bnjenner_&ref_url=http%3A%2F%2Flocalhost%3A4000%2F" data-width="400" data-height="400">Tweets by _bnjenner</a>   
-      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+<div class="container">
+  <section class="left-col">
+    <div class="emb" style="overflow-y: scroll;">
+      <h1 style="margin-bottom: 30px; text-align: center;"><a href="https://twitter.com/_bnjenner_">Twitter</a></h1>
+      <a class="twitter-timeline" href="https://twitter.com/_bnjenner_?ref_src=twsrc%5Etfw" data-chrome="noheader" data-width="350" data-height="300"></a> 
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>    
+  </section>
+  <aside class="right-col">
+    <div style="width: 300px; height: 500px; display: inline-block; margin-bottom: 45px;">
+      <a style="display: block;">
+        <h1 style="text-align: left; width: 300px; height: 60px;"><a  href="https://github.com/bnjenner?tab=repositories">Repositories</a></h1>
+        <ul style="text-align: left;" class="column" style="float: left;" id="repositories"></ul>
+      </a>
     </div>
-  </div>
-  <div class="column" style="background-color:#bbb;" id="repositories">
-    <h2>Column 2</h2>
-      <p>Some text..</p>
-  </div>
-</div>
+  </aside>
+</div>    
+
 
 <script src="../../scripts/repo.js"></script>
 
