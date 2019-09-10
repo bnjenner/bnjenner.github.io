@@ -10,6 +10,6 @@ classes: wide
 
 LOL
 
-## Neuroscience:
+## Neurogenomics:
 
 LOL
