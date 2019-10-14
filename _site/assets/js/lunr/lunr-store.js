@@ -10,7 +10,7 @@ var store = [{
         "url": "http://localhost:4000/Nord-Lab-Website-Init/",
         "teaser":null},{
         "title": "Northern California Computational Biology Symposium 2019",
-        "excerpt":"I attended the 2019 Northern California Computational Biology Symposium hosted at UC Davis. It was fun discussing discuss my research on strawberry transcriptomics as well as hearing from graduate and undergraduate students about their work!      View Website Here  ","categories": [],
+        "excerpt":"I attended the 2019 Northern California Computational Biology Symposium hosted at UC Davis. It was fun discussing discuss my research on strawberry transcriptomics as well as hearing from graduate and undergraduate students about their work!      ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/NCCB/",
         "teaser":null}]
