@@ -9,6 +9,10 @@
 <lastmod>2019-08-26T00:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/NCCB/</loc>
+<lastmod>2019-10-12T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/_pages/about/</loc>
 </url>
 <url>
@@ -27,5 +31,9 @@
 <url>
 <loc>http://localhost:4000/pdfs/URC_2019.pdf</loc>
 <lastmod>2019-07-22T10:35:36-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/nccb.pdf</loc>
+<lastmod>2019-10-13T18:00:49-07:00</lastmod>
 </url>
 </urlset>

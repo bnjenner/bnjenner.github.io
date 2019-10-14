@@ -1,8 +1,8 @@
-const version = '20190910125646';
+const version = '20191013180144';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/Nord-Lab-Website-Init/","/UC-Davis-Undergraduate-Research-Conference-2019/","/_pages/about/","/","/assets/js/lunr/lunr-en.js","/assets/js/lunr/lunr-gr.js","/assets/js/lunr/lunr-store.js","/assets/css/main.css","/_pages/posts/","/_pages/publications/","/sitemap.xml","/robots.txt","/feed.xml","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/NCCB/","/Nord-Lab-Website-Init/","/UC-Davis-Undergraduate-Research-Conference-2019/","/_pages/about/","/","/assets/js/lunr/lunr-en.js","/assets/js/lunr/lunr-gr.js","/assets/js/lunr/lunr-store.js","/assets/css/main.css","/_pages/posts/","/_pages/publications/","/sitemap.xml","/robots.txt","/feed.xml","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

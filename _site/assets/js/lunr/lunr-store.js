@@ -8,4 +8,9 @@ var store = [{
         "excerpt":"Taking a short break from Bioinformatics, I built a website for the Nord Neurogenomics Lab showcasing their publications and Github repositories! Be sure to check out the site as well as the amazing work that is done in this lab!   View Website Here  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/Nord-Lab-Website-Init/",
+        "teaser":null},{
+        "title": "Northern California Computational Biology Symposium 2019",
+        "excerpt":"I attended the 2019 Northern California Computational Biology Symposium hosted at UC Davis. It was fun discussing discuss my research on strawberry transcriptomics as well as hearing from graduate and undergraduate students about their work!      View Website Here  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/NCCB/",
         "teaser":null}]
