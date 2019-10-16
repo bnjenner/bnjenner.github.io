@@ -13,8 +13,8 @@ Hello! My name is Bradley Jenner and I am studying Bioinformatics at the Univers
 
 ### Skills:                     
 - Bioinformatic Analysis 
-- Programming (Python)
-- Molecular Biology Techniques
+- Programming (Python, R, Bash)
+- Molecular Biology Techniques (emphasis in DNA/RNA related procedures)
 
 ### Continued Education:
  - UC Davis Bioinformatics Core: Prerequisite Workshop (March, 2018)
