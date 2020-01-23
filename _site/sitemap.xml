@@ -13,6 +13,10 @@
 <lastmod>2019-10-12T00:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/UCD-Bioinformatics-Core_PreReq-Workshop/</loc>
+<lastmod>2019-12-18T00:00:00-08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/_pages/about/</loc>
 </url>
 <url>
@@ -30,7 +34,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/_pages/CV.pdf</loc>
-<lastmod>2019-11-20T09:43:16-08:00</lastmod>
+<lastmod>2020-01-23T11:45:08-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/pdfs/URC_2019.pdf</loc>
@@ -39,5 +43,9 @@
 <url>
 <loc>http://localhost:4000/pdfs/nccb.pdf</loc>
 <lastmod>2019-10-13T18:00:49-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/prereq_2019.pdf</loc>
+<lastmod>2020-01-23T11:48:28-08:00</lastmod>
 </url>
 </urlset>

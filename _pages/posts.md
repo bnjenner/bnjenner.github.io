@@ -26,3 +26,6 @@ div.ex1 {
     {% endfor %} 
   </ul>
 </div>
+
+<br>
+*Scroll for More Posts*
