@@ -9,7 +9,7 @@ title: About
 Hello! My name is Bradley Jenner and I am studying Bioinformatics at the University of California, Davis. I am working as an Undergraduate Research Assistant at the Gordon Lab in the UC Davis Department of Plant Pathology and the Nord Lab at the UC Davis Center for Neuroscience. In my free time, I love to play guitar, program, and cook delicious vegan meals.
 
 ### Education:
-- Bachelor's of Science in Biotechnology (Bioinformatics Emphasis) from University of California, Davis (expected 2021).
+- Bachelor's of Science in Biotechnology (Computer Science Minor) from University of California, Davis (expected 2021).
 
 ### Continued Education:
  - UC Davis Bioinformatics Core: Prerequisite Workshop (March, 2018)
