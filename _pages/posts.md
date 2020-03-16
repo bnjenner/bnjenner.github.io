@@ -11,7 +11,7 @@ div.ex1 {
 }
 </style>
 
-<img src="set.jpg?raw=true"/>
+<img src="set.jpg?raw=true" style="border-radius: 15px; margin-bottom: -10px;"/>
 
 # Posts
 ---
