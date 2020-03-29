@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Bradley N. Jenner"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Bradley N. Jenner "
+name                     : "Bradley N. Jenner"
 description              : "Student and Undergraduate Researcher at the University of California, Davis."
 url                      : https://bnjenner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
