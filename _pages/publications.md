@@ -6,10 +6,5 @@ classes: wide
 ---
 ---
 
-## Plant Pathology:
+## 2020:
 
-LOL
-
-## Neurogenomics:
-
-LOL
