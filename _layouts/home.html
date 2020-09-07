@@ -43,7 +43,7 @@ permalink: twitter
 <font size="6"><h3 class="archive__subtitle">{{ "Recent Posts" }}</h3></font>
 
 
-{% for post in paginator.posts limit:3 %}
+{% for post in paginator.posts limit:1 %}
   {% include archive-single.html %}
 {% endfor %}
 
