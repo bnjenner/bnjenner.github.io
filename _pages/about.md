@@ -16,9 +16,8 @@ Hello! My name is Bradley Jenner and I am studying Biotechnology (Bioinformatics
 ### Affiliations:
 - [UC Davis Bioinformatics Core](https://bioinformatics.ucdavis.edu)
 <br>
-- [Gordon Lab](http://thegordonlab.net)
-<br>
 
 ### Past Appointments
+- [Gordon Lab](http://thegordonlab.net)
 - [Nord Lab](https://nordlab.faculty.ucdavis.edu)
 
